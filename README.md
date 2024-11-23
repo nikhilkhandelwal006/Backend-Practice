@@ -26,7 +26,12 @@ Welcome to my **Backend Practice Repository**! This repository is dedicated to l
 ### **Chapter 5: Backend Directory Structure, MVC, and Routing**  
    - Organizing the backend using the MVC pattern.  
    - Setting up a clean and scalable directory structure.  
-   - Implementing routing with modularity and separation of concerns.  
+   - Implementing routing with modularity and separation of concerns.
+     
+### **Chapter 6: MongoDB Basics and MongoDB Atlas
+   - Introduction to MongoDB and its core concepts.
+   - Understanding cloud database services like MongoDB Atlas.
+   - Note: This chapter primarily involves practical work and is not included in the repository codebase.    
 
 ### **Chapter 7: Mongoose and REST APIs**  
    - Connecting to MongoDB with Mongoose.  
@@ -42,7 +47,6 @@ Welcome to my **Backend Practice Repository**! This repository is dedicated to l
 ## Repository Highlights 🚀  
 
 - **Well-Structured Codebase**: Organized chapters for progressive learning.  
-- **Practical Examples**: Hands-on examples in each chapter to reinforce learning.  
 - **Real-World Concepts**: Covers essential backend topics for building robust web applications.  
 
 ## How to Use This Repository 🔧  
